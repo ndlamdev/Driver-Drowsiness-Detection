@@ -24,8 +24,8 @@ Dự án này là một hệ thống phát hiện buồn ngủ của tài xế s
 ### 1. Clone hoặc tải dự án về máy
 
 ```bash
-git clone <repository-url>
-cd drowsidess_detection
+git clone https://github.com/ndlamdev/Driver-Drowsiness-Detection
+cd Driver-Drowsiness-Detection
 ```
 
 ### 2. Cài đặt các thư viện cần thiết
